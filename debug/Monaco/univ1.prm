@@ -1,0 +1,30 @@
+47.7322   Latitudine
+0         DeltaLamda
+0.0       DeclinazioneQ
+0.0	     InclinazioneQ
+1.0       Passo_orarie
+1.0       Passo_lemni
+0.1       Tratto_diurne
+75.01      Max_almucant.
+10.0       Passo_almucant.
+120.0      Max_azimut
+30.0       Passo_azimut
+5.0       Semi_ext_oriz.
+5.0       Semi_ext_vert.
+6.00     Ora_inizio
+18.01     Ora_fine
+0         lemni
+0         solistizi
+1         diurnezod
+0         diurnemns
+1         orarie
+0         orariefuso
+0         azimalmu
+26        tipo
+3         a1_Rs
+2         b1_Ri
+3         p_profondita'
+
+
+
+
