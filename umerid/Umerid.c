@@ -820,7 +820,8 @@ double a,b,c, disc;
 	    Ys = y -2*Rs*cos(az);;
 	    Zs = z;
 	  
-	  printf("tau = %lf, Xs= %lf, Ys = %lf  Zs = %lf\n",tau, Xs, Ys, Zs);
+	  //printf("tau = %lf, Xs= %lf, Ys = %lf  Zs = %lf\n",tau, Xs, Ys, Zs);
+	  printf("In esecuzione....\n");
       flatland = 0;
 
 	  }
