@@ -30,7 +30,13 @@ plugins/ios.json
 www/
 $RECYCLE.BIN/
 
-debug/Ottieri/*
+debug/Draw.exe
+debug/Draw.ilk
+debug/Draw.pdb
+debug/Monaco/univ1.dxf
+debug/umerid.ilk
+umerid.ncb
+umerid.suo
 
 .DS_Store
 Thumbs.db
