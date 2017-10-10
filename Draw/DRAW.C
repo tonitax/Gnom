@@ -393,7 +393,7 @@ write(file1,buffer,strlen(buffer));
 //Print #3, "SECTION"
 //Print #3, 2
 //Print #3, "ENTITIES"
-sprintf(buffer,"0\nSECTION\n2\nENTITIES\n");
+sprintf(buffer,"0\nSECTION\n2\nENTITIES\n0\n");
 write(file1,buffer,strlen(buffer));
 }
 
